@@ -68,7 +68,7 @@
 
 .home {
     display: flex;
-    background-image: url(images/bg.jpg) ;
+    background-image: url(images/bg.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
